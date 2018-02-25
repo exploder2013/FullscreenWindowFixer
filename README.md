@@ -1,5 +1,5 @@
 # FullscreenWindowFixer
-Fixes the problem of whenever a full-screen application (e.g. games) is not running in native resolution and in result, when minimizing it resizes all background windows to wrong sizes.
+Fixes the problem of whenever a full-screen application (e.g. games) are not running in native resolution and in result, when minimizing it resizes all background windows to wrong sizes which then have to be resized back to normal manually by the user.
 
 # Usage:
   * It takes one paramater when lanuching which is the specific game executable name.
